@@ -1,6 +1,24 @@
-Hello, Kottans!
+__Hello, Kottans!__
 
-=(^.^)=
+__=(\^.^\)=__
 
-I want to become a frontend-developer. 
-Git and github are new for me. I like to study them although sometimes there are difficulties.
+I want to become a frontend-developer. And I will.
+
+## Linux CLI, and HTTP
+<details>
+<summary>screenshots</summary>
+
+![screenshot linux num.1](task_linux_cli/resize_Linuxsurvival%201.PNG)
+![screenshot linux num.2](task_linux_cli/resize_Linuxsurvival%202.PNG)
+![screenshot linux num.3](task_linux_cli/resize_Linuxsurvival%203.PNG)
+![screenshot linux num.4](task_linux_cli/resize_Linuxsurvival%204.PNG)
+
+</details>
+
+Linux -  базова програма, якою обов'язково мають вміти користуватися розробники. Це буде у нагоді навіть починаючи працювати з GitHub. Для мене інформація стосовно Linux та HTTP була в більшості новою. І знання команд Linux була б у нагоді, коли я почала знайомитись з GitHub. Бо при самостійній спробі роботи в командній строці, щоб розібратись як воно працює, мені дуже не вистачало цих знань. Крім того тоді ж я потрапила в пастку VIM,  і це дуже затягнуло процес вивчення))
+
+4 модулі курсу Linux Survival з віртуальною середовищою було корисно пройти, але потім обов'язково закріпила знання зі справжньою командною строкою, так набагато наглядніше. Підказка стосовно Git Bash here була дуже корисною.
+
+Розуміння роботи протоколу HTTP безумовно, також важливо. Я якось не задумувалась, що документ може десь там не існувати, а іноді збираєтся частинами і відображається користувачу. Корисним було також дізнатись методи HTTP-протоколу, та які можуть бути відповіді серверу у відповідь на запрос, а це не тільки помилка 404).
+
+Тепер стало зрозуміліше чому HTTPS захищене з'єднання, на відміну від HTTP. Деякі технічні деталі стосовно кешування, ідентифікаціі та автентифікації цікаво було дізнатись.
