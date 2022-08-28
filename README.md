@@ -4,6 +4,19 @@ __=(\^.^\)=__
 
 I want to become a frontend-developer. And I will.
 
+## Git Basics
+
+<details>
+<summary>screenshots</summary>
+
+![screenshot git week 1](task_git_collaboration/Coursera%20week%201.PNG)
+![screenshot git week 2](task_git_collaboration/Coursera%20week%202.PNG)
+![screenshot git practice 1](task_git_collaboration/git%20train%20p.1.PNG)
+
+</details>
+
+Самі основи Гіту зрозумілі, на практиці будуть корисні. Вся інформація для мене нова. При роботі з командною строкою та Гітом я постійно попадала у пастки, бо там багато дрібниць, котрі не завжди швидко гугляться. Тож головним при виконанні цього розділу для мене було знати, як вибратись із пастки, а вони траплялись постійно: після команди git log логи йшли по кругу)) При спробах писати комментарі до комітів у Vim) складно було навіть почати щось писати, не кажучи про те, як потім звідти вийти))
+
 ## Linux CLI, and HTTP
 <details>
 <summary>screenshots</summary>
@@ -28,11 +41,8 @@ Linux -  базова програма, якою обов'язково мают�
 <details>
 <summary>screenshots</summary>
 
-![screenshot git week 1](task_git_collaboration/Coursera%20week%201.PNG)
-![screenshot git week 2](task_git_collaboration/Coursera%20week%202.PNG)
 ![screenshot git week 3](task_git_collaboration/Coursera%20week%203.PNG)
 ![screenshot git week 4](task_git_collaboration/Coursera%20week%204.PNG)
-![screenshot git practice 1](task_git_collaboration/git%20train%20p.1.PNG)
 ![screenshot git practice 2](task_git_collaboration/git%20train%20p.2.PNG)
 
 </details>
